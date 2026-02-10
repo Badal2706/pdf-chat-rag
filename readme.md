@@ -1,4 +1,4 @@
-# DocuChat AI - Intelligent PDF Conversational Assistant
+# PDF-chat-RAG AI - Intelligent PDF Conversational Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
@@ -98,5 +98,6 @@ A production-ready RAG (Retrieval-Augmented Generation) application that enables
     Groq for high-speed LLM inference
     Streamlit for intuitive UI framework
     scikit-learn for ML utilities
+
 
 **Built with ❤️ by Badal Patel**
